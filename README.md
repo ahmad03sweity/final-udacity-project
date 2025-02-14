@@ -29,5 +29,27 @@ The application relies on the following dependencies:
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Travel-app-planner.git
+  ```sh
+  git clone https://github.com/ahmad03sweity/final-udacity-project.git
+  ```
+
+2. Install the dependencies:
+  ```sh
+  npm install
+  ```
+
+3. Run the development server:
+  ```sh
+  npm run dev
+  ```
+
+## Deployment
+
+To deploy the application, run:
+```sh
+npm run build
+```
+
+## Authors
+
+- [Ahmad Sweity](https://github.com/ahmad03sweity)
